@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9A157270173E13590095B280 /* LoadingTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A15726D173E11D20095B280 /* LoadingTableViewCell.m */; };
+		9A157274173E1E070095B280 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A157273173E1E070095B280 /* Default-568h@2x.png */; };
 		FC3BA986129531F900CCEA0D /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3BA984129531F900CCEA0D /* SettingsViewController.m */; };
 		FC3BA987129531F900CCEA0D /* SettingsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FC3BA985129531F900CCEA0D /* SettingsViewController.xib */; };
 		FC3DA21712A73DB200180210 /* Dojo-Map.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3DA21612A73DB200180210 /* Dojo-Map.png */; };
@@ -69,6 +70,7 @@
 /* Begin PBXFileReference section */
 		9A15726C173E11D20095B280 /* LoadingTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = LoadingTableViewCell.h; path = TableViewCells/LoadingTableViewCell.h; sourceTree = "<group>"; };
 		9A15726D173E11D20095B280 /* LoadingTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = LoadingTableViewCell.m; path = TableViewCells/LoadingTableViewCell.m; sourceTree = "<group>"; };
+		9A157273173E1E070095B280 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		FC3BA983129531F900CCEA0D /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
 		FC3BA984129531F900CCEA0D /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 		FC3BA985129531F900CCEA0D /* SettingsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SettingsViewController.xib; path = Classes/SettingsViewController.xib; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 		FC6C285E129450A80079E069 = {
 			isa = PBXGroup;
 			children = (
+				9A157273173E1E070095B280 /* Default-568h@2x.png */,
 				FC6C2865129450A80079E069 /* Classes */,
 				FCE4A14C12A1ABF900B50CC7 /* JONListViewController */,
 				FCB5698A12947223002A3F84 /* JSON */,
@@ -434,6 +437,7 @@
 				FC3DA21712A73DB200180210 /* Dojo-Map.png in Resources */,
 				FC3DA22112A7507800180210 /* MapViewController.xib in Resources */,
 				FCB6004612A75E8100A339FA /* EventStaffViewController.xib in Resources */,
+				9A157274173E1E070095B280 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

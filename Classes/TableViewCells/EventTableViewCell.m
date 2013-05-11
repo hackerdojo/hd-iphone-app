@@ -30,7 +30,7 @@ static UIImage *selectedImage = nil;
 		detailTextFont = [[UIFont systemFontOfSize:12] retain];
         dateTextFont = [[UIFont boldSystemFontOfSize:18] retain];
         dateFormatter = [[NSDateFormatter alloc]init];
-        selectedImage = [[UIImage imageNamed:@"BlueBackground"] retain];
+        selectedImage = [[[UIImage alloc] init] retain];
 	}
 }
 
